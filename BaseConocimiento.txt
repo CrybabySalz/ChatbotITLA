@@ -1,0 +1,33 @@
+Hola, como estas?
+
+Saludos, como estas?
+
+Buenos dias, como estas?
+
+Buenas tardes, como estas?
+
+Buenas noches, como estas?
+
+Gracias a ti. 
+
+(Calificacion vieja, calificacion anterior, historial de calificacion, notas viejas, nota vieja) Para ver tus calificaciones o notas de tu ultimo periodo, puedes ver el historico de calificaciones al ingresar a "orbi.edu.do", iniciar sesion con tus credenciales, luego presionar en Mi Menu > Gestion Docencia > Historico Calificacion.
+
+(Calificacion, calificacion actual, calificacion reciente, notas, nota,) Para ver tus calificaciones o notas de tu periodo actual, puedes ver tus calificaciones del periodo actual al ingresar a "orbi.edu.do", iniciar sesion con tus credenciales, luego presionar en Mi Menu > Gestion Docencia > Consulta Calificacion.
+
+(Retirar, retiro) Para retirar una materia, debes ir a "orbi.edu.do", iniciar sesion con tus credenciales, luego presionar en Mi Menu > Solicitud > Retiro; Luego, presionar en Agregar > Retiro de Asignatura o Curso; Luego seleccionas la materia que deseas retirar, eliges las razones por las que quieres retirar, y eliges la opcion de "Salvar".
+
+(Inscripcion, inscribirse, inscribo, inscribir) Pasos para la inscripcion => Realizar la solicitud de admision > Realizar el pago por derecho a admision de RD$500,00 > Adjuntar los documentos digitalizados en la plataforma ORBI > Entregar los documentos en original al departamento de Admisiones > Examenes de admision > Tomar los examenes de nivel de ingles y propedeutico de matematicas.
+
+(horario) El horario de clases depende de las materias seleccionadas, de modo general los horarios de clases del tecnologo varian de 8:00am a 10:00pm, reiteramos que depende de las materias seleccionadas por el estudiante.
+
+(pago, forma de pago) La forma de pago del cuatrimestre es la siguiente => Se divide el pago en 3 pagos: El primer pago es un 40% del total de los creditos, el segundo pago el 40% y el tercer pago es el 20% restante.
+
+(Transporte, autobus, ruta) Si tienes preguntas relacionadas al transporte, puedes llamar a servicio al cliente al 809-738-4852 extension 221, 266, 310 o puede consultar nuestro portal => https://itla.edu.do/transporte para ver la ruta de transporte.
+
+(Residencia, alojamiento) Los requisitos para solicitar alojamiento en la residencia academica son => Ser estudiante del ITLA | 2 fotos 2x2 | Tener seguro medico | Si es menor firmar un documento de descargo de parte del padre o tutor | Llenar el formulario de solicitud de alojamiento | Nota: La asignacion de plaza esta sujeto a disponibilidad.
+
+(ubicacion, direcccion, como llegar a, ubicado, encuentra, donde se encuentra, en que lugar) El ITLA esta ubicado en Autopista Las Americas, Kilometro 27, PCSD, La Caleta, Boca Chica 11606, Frente Al Hotel Hilton.
+
+(carrera, carreras, tecnicos) Algunas de las carreras que el ITLA ofrece son: Desarrollo de Software, Multimedia, Ciberseguridad, Telecomunicaciones, Redes, Diseno industrial; para ampliar informacino visita la pagina web https://itla.edu.do/carreras-tecnologicas/
+
+(contacto, contactos, comunicacion, comunicaciones) Para comunicarte con el ITLA puedes entrar en sus redes sociales o llamar a los siguientes numeros: 809-738-4852 / 809-793-2557; Lunes - viernes => 8:00 a. m. - 4:00 p. m.
